@@ -2,8 +2,8 @@
   "version": "1.1.0",
   "download_url": "https://github.com/FocusPingApp/FocusPing/releases/download/v1.1.0/FocusPing.exe",
   "release_notes": "FocusPing Update: Let that sync in",
-  "release_date": "2025-07-27",
-  "minimum_version": "1.1.0",
+  "release_date": "2025-08-06",
+  "minimum_version": "1.0.0",
   "force_update": false,
   "changelog": [
     "- Added data syncing to sync data across devices",
@@ -12,5 +12,6 @@
     "- Moved on/off task display to banner",
   ]
 }
+
 
 
