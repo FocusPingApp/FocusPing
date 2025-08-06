@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "download_url": "https://github.com/FocusPingApp/FocusPing/releases/download/v1.1.0/FocusPing.exe",
   "release_notes": "FocusPing Update: Let that sync in",
   "release_date": "2025-08-06",
@@ -12,6 +12,7 @@
     "- Moved on/off task display to banner",
   ]
 }
+
 
 
 
